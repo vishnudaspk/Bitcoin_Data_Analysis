@@ -68,7 +68,7 @@ jupyter notebook
 4. Open Bitcoin_Data_Analysis.ipynb and run the notebook cells sequentially to reproduce the analysis.
 
 
-##Insights & Results
+## Insights & Results
 - The analysis reveals Bitcoin's price evolution over time, highlighting periods of rapid growth and volatility.
 - Daily price change computations help identify the magnitude and frequency of price fluctuations.
 -Visualizations provide a clear understanding of market trends and potential patterns useful for further research or trading strategies.
