@@ -51,30 +51,22 @@ Make sure you have Python 3 installed on your system. It’s recommended to use 
    git clone https://github.com/vishnudaspk/Bitcoin_Data_Analysis.git
    cd Bitcoin_Data_Analysis
 
-Install dependencies:
+2. Install dependencies:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Launch Jupyter Notebook:
+
+3. Launch Jupyter Notebook:
 
 bash
 Copy
 Edit
 jupyter notebook
-Open Bitcoin_Data_Analysis.ipynb and run the notebook cells sequentially to reproduce the analysis.
 
-Project Structure
-bash
-Copy
-Edit
-Bitcoin_Data_Analysis/
-│
-├── Bitcoin_Data_Analysis.ipynb    # Main Jupyter Notebook with full analysis
-├── requirements.txt               # Project dependencies
-├── README.md                     # Project documentation
-└── data/                         # (Optional) Folder for storing data files if applicable
+4. Open Bitcoin_Data_Analysis.ipynb and run the notebook cells sequentially to reproduce the analysis.
+
 
 ##Insights & Results
 - The analysis reveals Bitcoin's price evolution over time, highlighting periods of rapid growth and volatility.
